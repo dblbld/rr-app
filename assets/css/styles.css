@@ -664,6 +664,10 @@ footer {
     text-align: center;
     margin: 33px 0 0 0; }
 
+.space {
+    margin-bottom: 60px;
+}
+
 .year {
   display: flex;
   justify-content: space-between;
