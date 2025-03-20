@@ -724,7 +724,7 @@ footer {
       margin: 72px auto 0; } }
 
 .app__logo {
-  margin-bottom: 80px; }
+  margin-bottom: 10px; }
 
 .app__text {
   max-width: 200px;
@@ -738,6 +738,7 @@ footer {
     max-width: 200px;
     text-align: center;
     font-size: 24px;
+    margin-bottom: 80px;
 }
 
 @media (max-width: 1450px) {
