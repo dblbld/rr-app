@@ -601,11 +601,11 @@ footer {
   background-repeat: no-repeat;
   background-size: cover;
   padding: 70px 0 105px;
-  overflow: hidden;
+  overflow: auto;
   position: relative; }
   .header.--light {
     background: #54BF47;
-    overflow: hidden; }
+    overflow: auto; }
     .header.--light .header__img-1, .header.--light .header__img-2 {
       opacity: .7; }
   .header__img-1, .header__img-2 {
@@ -723,7 +723,7 @@ footer {
   max-width: 276px; }
   @media (max-width: 768px) {
     .app__content {
-      position: static;
+      position: absolute;
       transform: translate(0, 0);
       margin: 72px auto 0; } }
 
