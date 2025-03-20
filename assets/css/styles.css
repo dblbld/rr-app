@@ -329,8 +329,14 @@ template {
   font-weight: 900;
   font-style: "normal"; }
 
+@font-face {
+    font-family: "ChunkFive";
+    src: url('/assets/fonts/ChunkFive-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+
 html {
-  font-family: "Museo Sans", Arial, serif;
+  font-family: "Museo Sans", Arial, "ChunkFive", serif, sans-serif;
   font-size: 16px;
   font-weight: 500;
   height: 100%;
@@ -726,6 +732,11 @@ footer {
   margin: 46px auto 0;
   font-size: 18px;
   line-height: 24px; }
+
+.app__main {
+    font-family: "ChunkFive", sans-serif;
+    font-size: 24px;
+}
 
 @media (max-width: 1450px) {
   .app .header__img-1, .app .header__img-2 {
