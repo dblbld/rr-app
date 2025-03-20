@@ -735,6 +735,8 @@ footer {
 
 .app__main {
     font-family: "ChunkFive", sans-serif;
+    max-width: 200px;
+    text-align: center;
     font-size: 24px;
 }
 
