@@ -734,7 +734,7 @@ footer {
   line-height: 24px; }
 
 .app__main {
-    font-family: "ChunkFive", sans-serif;
+    font-family: "ChunkFive", serif;
     max-width: 200px;
     text-align: center;
     font-size: 24px;
