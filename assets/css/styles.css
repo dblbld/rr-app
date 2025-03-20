@@ -725,7 +725,8 @@ footer {
     .app__content {
       position: static;
       transform: translate(0, 0);
-      margin: 72px auto 0; } }
+      margin: 72px auto 0;
+      margin-bottom: 80px;} }
 
 .app__logo {
   margin-bottom: 10px; }
