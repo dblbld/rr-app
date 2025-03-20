@@ -729,15 +729,15 @@ footer {
 .app__text {
   max-width: 200px;
   text-align: center;
-  margin: 46px auto 0;
+  margin: 40px auto 0;
   font-size: 18px;
   line-height: 24px; }
 
 .app__main {
     font-family: 'ChunkFive', sans-serif;
     text-align: center;
-    font-size: 32px;
-    margin-bottom: 80px;
+    font-size: 36px;
+    margin-bottom: 40px;
 }
 
 @media (max-width: 1450px) {
