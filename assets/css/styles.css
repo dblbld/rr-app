@@ -760,8 +760,8 @@ footer {
 .green, .black {
   height: 100%;
   width: 100%;
-  overflow: body;
-  position: relative; }
+  overflow: auto;
+  position: absolute; }
 
 .green {
   background: radial-gradient(45.85% 56.05% at 50% 45.58%, #3BC72A 0%, #119900 100%);
